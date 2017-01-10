@@ -1,0 +1,15 @@
+﻿Сборка начата 13.01.2016 18:21:37.
+     1>Проект "E:\seti\C\neiro\labs\lab3\lab3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt lab3.cpp
+         lab3.cpp
+     1>e:\seti\c\neiro\labs\lab3\lab3.h(19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptrdiff_t"
+     1>e:\seti\c\neiro\labs\lab3\lab3.h(19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>e:\seti\c\neiro\labs\lab3\lab3.h(45): error C2536: Quantity::Quantity::pnt: нельзя задавать явный инициализатор для массивов
+                 e:\seti\c\neiro\labs\lab3\lab3.h(45): см. объявление "Quantity::pnt"
+     1>lab3.cpp(265): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>Сборка проекта "E:\seti\C\neiro\labs\lab3\lab3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:02.68

@@ -1,0 +1,15 @@
+C:\C\neiro\labs\laba2\bin\Debug\Perceptron_Duo.exe.config
+C:\C\neiro\labs\laba2\bin\Debug\Perceptron_Duo.exe
+C:\C\neiro\labs\laba2\bin\Debug\Perceptron_Duo.pdb
+C:\C\neiro\labs\laba2\bin\Debug\ru-RU\Perceptron_Duo.resources.dll
+C:\C\neiro\labs\laba2\bin\Debug\AForge.Controls.dll
+C:\C\neiro\labs\laba2\bin\Debug\AForge.dll
+C:\C\neiro\labs\laba2\bin\Debug\AForge.Neuro.dll
+C:\C\neiro\labs\laba2\obj\Debug\laba2.csprojResolveAssemblyReference.cache
+C:\C\neiro\labs\laba2\obj\Debug\Perceptron_Duo.MainForm.resources
+C:\C\neiro\labs\laba2\obj\Debug\Perceptron_Duo.Properties.Resources.resources
+C:\C\neiro\labs\laba2\obj\Debug\Perceptron_Duo.MainForm.ru-RU.resources
+C:\C\neiro\labs\laba2\obj\Debug\laba2.csproj.GenerateResource.Cache
+C:\C\neiro\labs\laba2\obj\Debug\ru-RU\Perceptron_Duo.resources.dll
+C:\C\neiro\labs\laba2\obj\Debug\Perceptron_Duo.exe
+C:\C\neiro\labs\laba2\obj\Debug\Perceptron_Duo.pdb

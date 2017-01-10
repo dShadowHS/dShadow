@@ -1,0 +1,12 @@
+﻿  lab4.cpp
+c:\c\neiro\labs\lab4\lab4.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\c\neiro\labs\lab4\lab4.cpp(345): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab4.vcxproj -> C:\C\neiro\labs\Debug\lab4.exe

@@ -1,0 +1,10 @@
+C:\ip_15_1_tiunova_y_p\XORProblem\bin\Debug\XORProblem.exe
+C:\ip_15_1_tiunova_y_p\XORProblem\bin\Debug\XORProblem.pdb
+C:\ip_15_1_tiunova_y_p\XORProblem\bin\Debug\AForge.Controls.dll
+C:\ip_15_1_tiunova_y_p\XORProblem\bin\Debug\AForge.dll
+C:\ip_15_1_tiunova_y_p\XORProblem\bin\Debug\AForge.Neuro.dll
+C:\ip_15_1_tiunova_y_p\XORProblem\obj\Debug\XORProblem.MainForm.resources
+C:\ip_15_1_tiunova_y_p\XORProblem\obj\Debug\XORProblem.csproj.GenerateResource.Cache
+C:\ip_15_1_tiunova_y_p\XORProblem\obj\Debug\XORProblem.exe
+C:\ip_15_1_tiunova_y_p\XORProblem\obj\Debug\XORProblem.pdb
+C:\ip_15_1_tiunova_y_p\XORProblem\obj\Debug\XORProblem.csprojResolveAssemblyReference.cache
